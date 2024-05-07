@@ -1,0 +1,15 @@
+git init 
+git add . 
+git remote add origin " "
+git commit -m "testing"
+git status
+git push -u origin master
+
+
+
+2 part now 
+
+git add .
+git status
+git commit -m "testing"
+git push -u origin master
